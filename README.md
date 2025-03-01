@@ -13,7 +13,7 @@
 
     </td>
     <td valign="top">
-      <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGl2emt5dXFxcGk1YTg1cTVoeHlvZThtNHRvOTVsNGEwMHMycWRubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" align = "right">
+      <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRqZXN2emxodDJkYzYxNjExd2EwY3dieWM2bjUwb2huczIyem1iNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XKSPsk67cnCw0/giphy.gif", align = "right">
     </td>
   </tr>
 </table>
