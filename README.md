@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center"> Hi 👋, Welcome to my GitHub Profile!</h1>
+<h3 align="center">An Aspiring Machine Learning Engineer</h3>
 
-<!--
-**anushacodes/anushacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-Here are some ideas to get you started:
+**About Me:**
+- 👾 I like to work on solving real world problems using the power of AI.
+- 🌱 I am currently working through the book 'Hands on Language Learning Models'
+- 💬 Ask me about **Language Models, Machine Learning, Deep Learning, and Computer Science**
+- 📫 How to reach me: **anusha.nandy@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    </td>
+    <td valign="top">
+      <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGl2emt5dXFxcGk1YTg1cTVoeHlvZThtNHRvOTVsNGEwMHMycWRubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" align = "right">
+    </td>
+  </tr>
+</table>
