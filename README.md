@@ -6,7 +6,7 @@
     <td valign="top" width="50%">
 
 **About Me:**
-- 👾 I like to work on solving real world problems using the power of AI.
+- 👾 I like to work on solving real world problems.
 - 🌱 I am currently working through the book 'Hands on Language Learning Models'
 - 💬 Ask me about **Language Models, Machine Learning, Deep Learning, and Computer Science**
 - 📫 How to reach me: **anusha.nandy@gmail.com**
