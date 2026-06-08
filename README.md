@@ -14,13 +14,5 @@ I work at the intersection of LLM orchestration and production engineering — b
 | [E-Commerce Warehouse](https://github.com/anushacodes/Ecommerce-data-warehouse) | Can one person build a full cloud data warehouse with CI/CD and a live dashboard? | AWS S3 + Redshift + Airflow + GitHub Actions + Plotly Dash — solo, 0 to 1 |
 
 
-## Experience
-
-**AI Backend Engineer · PM Accelerator** 
-
-Built a production agentic AI platform from scratch — LLM-powered retrieval pipeline on OpenAI embeddings and MongoDB Atlas, 90% query resolution accuracy across 10K+ live queries. Designed a classification + fact-verification layer with guardrails hitting 85%+ confidence end-to-end. Led a 4-person team.
-
-Key decisions: embedding model selection, chunking strategy, confidence threshold tuning, guardrail design.
-
 
 <p align="center"><sub>⚡ open to AI engineer & ML roles — full-time or founding team</sub></p>
